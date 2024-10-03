@@ -1,6 +1,6 @@
 # 🌟 **Welcome to My GitHub Profile!** 🌟
 
-![Your Banner Image](https://link-to-your-banner-image.com/banner.png)
+![Your Banner Image](https://as1.ftcdn.net/v2/jpg/03/52/39/00/1000_F_352390061_Bem8aYkzfGhIObTC4fXhf0PmKQjWM1wN.jpg)
 
 ## 👋 Hello! I'm Xuan Mui  
 I'm a passionate **Software Engineer** who loves building web applications and exploring new technologies.
@@ -15,7 +15,6 @@ I'm a passionate **Software Engineer** who loves building web applications and e
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
