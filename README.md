@@ -1,49 +1,60 @@
-![image](https://github.com/user-attachments/assets/d9791204-21bc-4a4f-9e2c-7a05007f9fda)# 🌟 **Quản Lý Nhiệm Vụ Cá Nhân (Task Manager)** 🌟
+# 🌟 **Welcome to My GitHub Profile!** 🌟
 
-![Task Manager](https://img.shields.io/badge/version-1.0-brightgreen.svg?style=flat-square) ![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square) ![Contributions](https://img.shields.io/badge/contributions-welcome-orange.svg?style=flat-square)
+![Your Banner Image](https://link-to-your-banner-image.com/banner.png)
 
----
+## 👋 Hello! I'm Xuan Mui  
+I'm a passionate **Software Engineer** who loves building web applications and exploring new technologies.
 
-## 📝 **Giới thiệu**
-
-Ứng dụng **Quản Lý Nhiệm Vụ Cá Nhân** là một công cụ tiện lợi để giúp bạn quản lý các nhiệm vụ hàng ngày một cách dễ dàng và hiệu quả. Với giao diện thân thiện, dễ sử dụng, bạn có thể thêm, sửa, xóa và theo dõi tình trạng của từng công việc mà không bị lãng quên.
-
-🎯 **Mục tiêu của dự án**: Hỗ trợ người dùng sắp xếp công việc khoa học, nâng cao hiệu suất cá nhân và quản lý thời gian hiệu quả.
-[Github](https://glints.com/vn/blog/app-tao-thoi-khoa-bieu/
-
+- 💻 **Full-Stack Developer**
+- 🚀 **Interested in Open Source and Cloud Computing**
+- ✨ **Always learning and experimenting with new tech**
 
 ---
 
-## 🚀 **Tính năng nổi bật**
+### 🛠️ **Technologies and Tools**
 
-- ✅ **Quản lý nhiệm vụ**: Thêm, chỉnh sửa, xóa nhiệm vụ một cách nhanh chóng.
-- 🎨 **Giao diện trực quan**: Tối ưu trải nghiệm người dùng với giao diện đơn giản, dễ tiếp cận.
-- 🔍 **Tìm kiếm & Lọc**: Dễ dàng tìm kiếm nhiệm vụ theo tên hoặc trạng thái.
-- 🕒 **Thông báo nhắc nhở**: Nhắc nhở người dùng về những nhiệm vụ sắp đến hạn.
-
----
-
-## 🛠️ **Công nghệ sử dụng**
-
-| **Công nghệ**     | **Mô tả**                  |
-|-------------------|----------------------------|
-| **Python**        | Ngôn ngữ lập trình backend  |
-| **Django**        | Framework web backend       |
-| **React.js**      | Thư viện frontend           |
-| **PostgreSQL**    | Cơ sở dữ liệu quan hệ       |
-| **Git & GitHub**  | Quản lý mã nguồn và hợp tác |
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
 ---
 
-## 📦 **Cài đặt & Sử dụng**
+### 📂 **Featured Projects**
 
-### **Yêu cầu hệ thống**
-- Python 3.8+
-- Node.js 14+
-- PostgreSQL 12+
+- [Project 1](https://github.com/Tealwine/DACS): A web for post and share Portfolio.
+- [Project 2](https://github.com/Tealwine/Android-Game): A simple 2D game on mobile plaform
 
-### **Cài đặt**
-1. **Clone dự án về máy:**
-   ```bash
-   git clone https://github.com/username/task-manager.git
-   cd task-manager
+
+---
+
+### ⚙️ **GitHub Stats**
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Tealwine&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tealwine&layout=compact&theme=radical)
+
+---
+
+### 🎯 **Goals for 2024**
+
+- Contribute to more open-source projects.
+- Learn Kubernetes and improve DevOps skills.
+- Build a personal portfolio website.
+
+---
+
+### 🔗 **Connect with Me**
+- [Facebook](https://www.facebook.com/NXM.Hunter/)
+- [LinkedIn](https://www.linkedin.com/in/yourusername/)
+- [Twitter](https://twitter.com/yourusername)
+- [Blog](https://yourblog.com)
+
+---
+
+### 📊 **My Coding Stats**
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark&hide_border=true)
+
