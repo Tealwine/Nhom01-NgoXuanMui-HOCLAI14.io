@@ -1,4 +1,4 @@
-# 🌟 **Quản Lý Nhiệm Vụ Cá Nhân (Task Manager)** 🌟
+![image](https://github.com/user-attachments/assets/d9791204-21bc-4a4f-9e2c-7a05007f9fda)# 🌟 **Quản Lý Nhiệm Vụ Cá Nhân (Task Manager)** 🌟
 
 ![Task Manager](https://img.shields.io/badge/version-1.0-brightgreen.svg?style=flat-square) ![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square) ![Contributions](https://img.shields.io/badge/contributions-welcome-orange.svg?style=flat-square)
 
@@ -9,6 +9,8 @@
 Ứng dụng **Quản Lý Nhiệm Vụ Cá Nhân** là một công cụ tiện lợi để giúp bạn quản lý các nhiệm vụ hàng ngày một cách dễ dàng và hiệu quả. Với giao diện thân thiện, dễ sử dụng, bạn có thể thêm, sửa, xóa và theo dõi tình trạng của từng công việc mà không bị lãng quên.
 
 🎯 **Mục tiêu của dự án**: Hỗ trợ người dùng sắp xếp công việc khoa học, nâng cao hiệu suất cá nhân và quản lý thời gian hiệu quả.
+[Github](https://glints.com/vn/blog/app-tao-thoi-khoa-bieu/
+
 
 ---
 
